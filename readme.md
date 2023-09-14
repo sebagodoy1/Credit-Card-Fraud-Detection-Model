@@ -1,4 +1,4 @@
-[Port](imagen.png)
+![Portada del proyecto](imagen.png)
 # Credit Card Fraud Detection Model
 
 This repository contains a credit card fraud detection model implemented in Python using the scikit-learn library. The model is designed to detect fraudulent transactions by employing a Random Forest Classifier, a supervised learning algorithm.
