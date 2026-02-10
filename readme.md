@@ -30,3 +30,4 @@ The model is deployed using Streamlit, a powerful tool for building interactive 
 This fraud detection model showcases the effectiveness of the Random Forest Classifier, especially when combined with techniques like SMOTE for handling imbalanced data. The high accuracy, precision, and recall scores demonstrate its robustness in identifying fraudulent transactions.
 
 ---
+v2.0
